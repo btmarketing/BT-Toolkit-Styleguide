@@ -1,10 +1,10 @@
-# bttest
+# btweb
 
-The bttest UI toolkit is a tool for rapid website development. It provides a set of fully-functional components and structures that can be used to build scalable web pages.
+The btweb UI toolkit is a tool for rapid website development. It provides a set of fully-functional components and structures that can be used to build scalable web pages.
 
 ## Getting Started
 
-bttest requires [node.js](http://nodejs.org). Make sure your have `v0.10` or higher installed before proceeding.
+btweb requires [node.js](http://nodejs.org). Make sure your have `v0.10` or higher installed before proceeding.
 
 **Start the local development environment:**
 
